@@ -25,9 +25,8 @@ We evaluate QOT on RAF-DB, AffectNet and SFEW. We take RAF-DB as an example to i
 - Step 6: run the evaluate code in q-vit_RAFDB_Upload.py to evaluate QOT module.
 
 ## Pre-trained Model
-Orthogonal_CNN:
-Orthogonal Features:
-QOT:
+Orthogonal_CNN:[Google Drive](https://drive.google.com/file/d/14pxYAWQCaAdk64xP8A9i2egOVEQ365L_/view?usp=sharing), and put it into ./checkpoint_cnn
+Orthogonal Features:[Google Drive](https://drive.google.com/file/d/1MYJm235ZINywXBcZ0Z4nBqT3JUMROoaA/view?usp=sharing)
+QOT: [Google Drive](https://drive.google.com/file/d/1S9nCW4WZSqVKCalwbzCaRzh_Cuz-rqy8/view?usp=sharing)
 
-## Results
 
